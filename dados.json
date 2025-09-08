@@ -1,5 +1,34 @@
 [
   {
+    "nome": "63",
+    "autor": "NOVO CANTO",
+    "link": "https://www.youtube.com/watch?v=FXMmY2ql9Ug",
+    "vsCifra": false,
+    "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "136",
+    "autor": "PROJETO SOLA",
+    "link": "https://www.youtube.com/watch?v=4Ef_sSKPClg",
+    "vsCifra": false,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
+    "nome": "A CRIAÇÃO EM TEU LOUVOR",
+    "autor": "SAMUEL MIZRAHY",
+    "link": "https://www.youtube.com/watch?v=qpne7vm6r30",
+    "vsCifra": false,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
     "nome": "A ELE A GLÓRIA",
     "autor": "DIANTE DO TRONO",
     "link": "",
@@ -41,28 +70,7 @@
     ]
   },
   {
-    "nome": "ABRA OS OLHOS DO MEU CORAÇÃO",
-    "autor": "MICHAEL SMITH",
-    "link": "",
-    "vsCifra": false,
-    "estacoes": [
-      "QUARESMA",
-      "PENTECOSTES",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "ABUNDANTE GRAÇA",
-    "autor": "DANIEL SOUZA",
-    "link": "",
-    "vsCifra": false,
-    "estacoes": [
-      "PENTECOSTES",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "Acende o fogo em mim",
+    "nome": "ACENDE O FOGO EM MIM",
     "autor": "VINEYARD",
     "link": "",
     "vsCifra": true,
@@ -74,7 +82,6 @@
     "link": "l1nk.dev/AclameAoSenhor",
     "vsCifra": true,
     "estacoes": [
-      "ADVENTO",
       "PÁSCOA",
       "PENTECOSTES",
       "TEMPO_COMUM"
@@ -90,11 +97,33 @@
     ]
   },
   {
+    "nome": "ACREDITO",
+    "autor": "DIANTE DO TRONO",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
     "nome": "AGNUS DEI",
     "autor": "MICHAEL W SMITH",
     "link": "l1nk.dev/AgnusDei",
     "vsCifra": true,
     "estacoes": [
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "AGUAS PURIFICADORAS/TÚ ÉS",
+    "autor": "FHOP",
+    "link": "https://www.youtube.com/watch?v=YXnQ02HYB1w",
+    "vsCifra": false,
+    "estacoes": [
+      "EPIFANIA",
+      "PÁSCOA",
       "TEMPO_COMUM"
     ]
   },
@@ -109,11 +138,15 @@
     ]
   },
   {
-    "nome": "Alguém como eu",
-    "autor": "Stenius Marcius",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": []
+    "nome": "ALFA E OMEGA (ALPHA AND OMEGA)",
+    "autor": "ISRAEL HOUGHTON VESÃO JULIA VITÓRIA",
+    "link": "https://www.youtube.com/watch?v=jFat_6uFsF0",
+    "vsCifra": false,
+    "estacoes": [
+      "EPIFANIA",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
   },
   {
     "nome": "ALVO MAIS QUE A NEVE",
@@ -149,13 +182,6 @@
     ]
   },
   {
-    "nome": "Antífona",
-    "autor": "Lucas Sousa",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": []
-  },
-  {
     "nome": "AO ERGUERMOS AS MÃOS",
     "autor": "NEWS BOYS",
     "link": "ALINE BARROS",
@@ -175,6 +201,26 @@
       "ADVENTO",
       "QUARESMA",
       "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "AO PÉ DA CRUZ",
+    "autor": "NOVO CANTO",
+    "link": "https://www.youtube.com/watch?v=2C6EPo0GE3I",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "AO REI",
+    "autor": "RESGATE",
+    "link": "https://open.spotify.com/intl-pt/track/28DZNunX8QrQWJDB0QdRQ2?si=f7688577a2894fe6",
+    "vsCifra": false,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
     ]
   },
   {
@@ -209,25 +255,6 @@
     ]
   },
   {
-    "nome": "BEM SUPREMO",
-    "autor": "ADHEMAR DE CAMPOS",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": [
-      "EPIFANIA",
-      "QUARESMA",
-      "PENTECOSTES",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "Bom estarmos aqui",
-    "autor": "Renascer Prayse",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": []
-  },
-  {
     "nome": "BONDADE DE DEUS",
     "autor": "",
     "link": "",
@@ -248,8 +275,28 @@
     ]
   },
   {
+    "nome": "CANÇÃO DO APOCALIPSE",
+    "autor": "AVIVAH",
+    "link": "https://youtu.be/GN_TohrQesA?si=3sW-lsrx5g7IBtIA",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "CANÇÃO DO APOCALIPSE",
+    "autor": "HILLSONG",
+    "link": "l1nk.dev/CancaoDoAPC",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
     "nome": "CANTA MINHA ALMA (BEHOLD)",
-    "autor": "HILSONG, VERSÃO KEMUEL",
+    "autor": "HILLSONG, VERSÃO KEMUEL",
     "link": "https://www.youtube.com/watch?v=vbljze53vje",
     "vsCifra": true,
     "estacoes": [
@@ -305,6 +352,19 @@
     ]
   },
   {
+    "nome": "COLOSSENSES 1",
+    "autor": "PROJETO SOLA",
+    "link": "acesse.one/Colossences1",
+    "vsCifra": true,
+    "estacoes": [
+      "NATAL",
+      "EPIFANIA",
+      "PÁSCOA",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
     "nome": "CONFIANÇA",
     "autor": "PROJETO SOLA",
     "link": "acesse.one/ConfiancA",
@@ -312,13 +372,6 @@
     "estacoes": [
       "TEMPO_COMUM"
     ]
-  },
-  {
-    "nome": "Confissões",
-    "autor": "PROJETO SOLA",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": []
   },
   {
     "nome": "CORAÇÃO IGUAL AO TEU",
@@ -342,7 +395,7 @@
     ]
   },
   {
-    "nome": "Cristo Esperança",
+    "nome": "CRISTO ESPERANÇA",
     "autor": "IPALPHA",
     "link": "",
     "vsCifra": true,
@@ -370,7 +423,7 @@
     ]
   },
   {
-    "nome": "Deus Zeloso",
+    "nome": "DEUS ZELOSO",
     "autor": "FHOPE",
     "link": "",
     "vsCifra": false,
@@ -422,7 +475,17 @@
     ]
   },
   {
-    "nome": "Eis o Dia",
+    "nome": "EFÉSIO 1",
+    "autor": "PROJETO SOLA",
+    "link": "https://www.youtube.com/watch?v=6UFnLQJ-Z1Q",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "EIS O DIA",
     "autor": "IPALPHA",
     "link": "",
     "vsCifra": true,
@@ -454,7 +517,7 @@
   {
     "nome": "EM CRISTO SÓ CONFIAREI",
     "autor": "KEITH GETTY",
-    "link": "https://www.youtube.com/watch?v=ybtccqo8xgk",
+    "link": "https://www.youtube.com/watch?v=ybtCANTOR CRISTÃOqo8xgk",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
@@ -473,11 +536,21 @@
     ]
   },
   {
-    "nome": "Em Tua presença",
+    "nome": "EM TUA PRESENÇA",
     "autor": "Níveia Soares",
     "link": "",
     "vsCifra": true,
     "estacoes": []
+  },
+  {
+    "nome": "ENQUANTO EU VIVER",
+    "autor": "DIANTE DO TRONO",
+    "link": "https://www.youtube.com/watch?v=-Ft25L_MWGM",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
   },
   {
     "nome": "ENTREGA",
@@ -501,7 +574,18 @@
     ]
   },
   {
-    "nome": "És o Rei que vem",
+    "nome": "ÉS MAIS FORTE",
+    "autor": "HILLSONG PORTUGUES",
+    "link": "https://open.spotify.com/intl-pt/track/54J1uG33yRt10lfqNwpD0c?si=22e1f53bbd764941",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "ÉS O REI QUE VEM",
     "autor": "IPALPHA",
     "link": "",
     "vsCifra": true,
@@ -530,7 +614,7 @@
   },
   {
     "nome": "ESTRE REINO",
-    "autor": "DT",
+    "autor": "DIANTE DO TRONO",
     "link": "l1nk.dev/EsteReino",
     "vsCifra": true,
     "estacoes": [
@@ -559,7 +643,7 @@
   },
   {
     "nome": "EU JAMAIS SEREI O MESMO",
-    "autor": "DT",
+    "autor": "DIANTE DO TRONO",
     "link": "acesse.one/EuJamaisSerei",
     "vsCifra": true,
     "estacoes": [
@@ -567,11 +651,21 @@
     ]
   },
   {
-    "nome": "Eu me rendo",
+    "nome": "EU ME RENDO",
     "autor": "Coletivo Adoração",
     "link": "",
     "vsCifra": true,
     "estacoes": []
+  },
+  {
+    "nome": "EU TAMBÉM",
+    "autor": "HILLSONG",
+    "link": "https://www.youtube.com/watch?v=h5plfizkr5a",
+    "vsCifra": true,
+    "estacoes": [
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
   },
   {
     "nome": "EU VOU CONSTRUIR",
@@ -617,7 +711,7 @@
     ]
   },
   {
-    "nome": "Firmeza na Fé",
+    "nome": "FIRMEZA NA FÉ",
     "autor": "IPALPHA",
     "link": "",
     "vsCifra": true,
@@ -641,18 +735,22 @@
     ]
   },
   {
-    "nome": "Forte mão",
-    "autor": "Sola",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": []
-  },
-  {
     "nome": "GLORIFICAR",
     "autor": "PROJETO SOLA",
     "link": "",
     "vsCifra": true,
     "estacoes": [
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "GRAÇAS DOU",
+    "autor": "August Storm-John Hultman/NOVO CANTO",
+    "link": "https://www.youtube.com/watch?v=53Jsl-j2opM",
+    "vsCifra": false,
+    "estacoes": [
+      "EPIFANIA",
       "PÁSCOA",
       "TEMPO_COMUM"
     ]
@@ -676,6 +774,26 @@
       "ADVENTO",
       "PÁSCOA",
       "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "HÁ PODER",
+    "autor": "FHOPE",
+    "link": "https://www.youtube.com/watch?v=5DN90_GGBZA",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "HOSANA",
+    "autor": "HILLSONG EM PORTUGUES",
+    "link": "https://www.youtube.com/watch?v=2UtcyWiS2aI",
+    "vsCifra": true,
+    "estacoes": [
+      "PÁSCOA",
       "TEMPO_COMUM"
     ]
   },
@@ -733,6 +851,17 @@
     ]
   },
   {
+    "nome": "JESUS É O REI DA GLÓRIA",
+    "autor": "DANIEL SOUZA",
+    "link": "acesse.one/JesusEoRei",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
     "nome": "JESUS EM TUA PRESENÇA",
     "autor": "ASAPH BORBA",
     "link": "",
@@ -775,7 +904,7 @@
     ]
   },
   {
-    "nome": "Jesus tudo pagou",
+    "nome": "JESUS TUDO PAGOU",
     "autor": "IPALPHA",
     "link": "https://www.youtube.com/watch?v=Y7xRpmb6mOQ",
     "vsCifra": true,
@@ -801,6 +930,19 @@
       "PÁSCOA",
       "PENTECOSTES",
       "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "LOUVOR E HONRA (ANCIENT OF DAYS)",
+    "autor": "PAULO CESAR BARUK",
+    "link": "https://www.youtube.com/watch?v=7rddoafnkdq&list=rd7rddoafnkdq&start_radio=1",
+    "vsCifra": true,
+    "estacoes": [
+      "NATAL",
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
     ]
   },
   {
@@ -835,7 +977,7 @@
     ]
   },
   {
-    "nome": "Maravilhado",
+    "nome": "MARAVILHADO",
     "autor": "Nívea Soares",
     "link": "",
     "vsCifra": true,
@@ -864,7 +1006,7 @@
   },
   {
     "nome": "ME LEMBRAREI",
-    "autor": "HILSONG EM PORTUGUES",
+    "autor": "HILLSONG EM PORTUGUES",
     "link": "acesse.one/MeLembrarei",
     "vsCifra": true,
     "estacoes": [
@@ -908,6 +1050,15 @@
     ]
   },
   {
+    "nome": "MOLDA-ME",
+    "autor": "JOSIMAR BIACHI, VPC",
+    "link": "https://open.spotify.com/intl-pt/track/4WSuQ1XPrSUI973uPnMfht?si=984af10461cd401f",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA"
+    ]
+  },
+  {
     "nome": "MONTE DO CALVÁRIO",
     "autor": "DANIEL DE SOUZA",
     "link": "",
@@ -941,11 +1092,37 @@
     ]
   },
   {
-    "nome": "NAS ESTRELAS",
-    "autor": "",
-    "link": "l1nk.dev/NasEstrelas",
-    "vsCifra": true,
+    "nome": "NÃO HÁ AMOR IGUAL",
+    "autor": "MORADA",
+    "link": "https://www.youtube.com/watch?v=aVKsUV9D3Mg",
+    "vsCifra": false,
     "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
+    "nome": "NÃO HÁ UM NOME IGUAL",
+    "autor": "HILLSONG PORTUGUES",
+    "link": "https://www.youtube.com/watch?v=NuBGPCfPJiU",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "NÃO TEMEREI JAMAIS",
+    "autor": "NIVEA SOARES",
+    "link": "https://www.youtube.com/watch?v=ynHEsBMe4qs&list=RDynHEsBMe4qs&start_radio=1",
+    "vsCifra": false,
+    "estacoes": [
+      "ADVENTO",
+      "EPIFANIA",
+      "PÁSCOA",
       "TEMPO_COMUM"
     ]
   },
@@ -969,6 +1146,18 @@
     ]
   },
   {
+    "nome": "NOSSO DEUS É SOBERANO",
+    "autor": "ASAPH BORBA",
+    "link": "l1nk.dev/NossoDeusESoberano",
+    "vsCifra": true,
+    "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
     "nome": "O NOITE SANTA",
     "autor": "",
     "link": "",
@@ -988,6 +1177,16 @@
     ]
   },
   {
+    "nome": "OASIS",
+    "autor": "DIANTE DO TRONO",
+    "link": "https://www.youtube.com/watch?v=2_ja6fxBszU&list=RD2_ja6fxBszU&start_radio=1",
+    "vsCifra": false,
+    "estacoes": [
+      "QUARESMA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
     "nome": "OFERTA DE AMOR",
     "autor": "MINISTÉRIO KOINONYA",
     "link": "l1nk.dev/OfertaDeAmor",
@@ -1000,7 +1199,7 @@
   },
   {
     "nome": "OH QUÃO LINDO ESSE NOME É",
-    "autor": "HILSONG",
+    "autor": "HILLSONG",
     "link": "https://www.youtube.com/watch?v=inct32y32jo",
     "vsCifra": true,
     "estacoes": [
@@ -1068,15 +1267,15 @@
     ]
   },
   {
-    "nome": "Poder do seu amor",
-    "autor": "DT",
+    "nome": "PODER DO TEU AMOR",
+    "autor": "DIANTE DO TRONO",
     "link": "",
     "vsCifra": true,
     "estacoes": []
   },
   {
     "nome": "PODER PRA SALVAR",
-    "autor": "HILSONG PORTUGUES",
+    "autor": "HILLSONG PORTUGUES",
     "link": "https://open.spotify.com/intl-pt/track/0woXw7yRascjnmsjvwfgGn?si=9658f0e195a1435b",
     "vsCifra": false,
     "estacoes": [
@@ -1097,15 +1296,20 @@
     ]
   },
   {
-    "nome": "Pra Sempre",
-    "autor": "Kari Jobe",
-    "link": "",
+    "nome": "PRA SEMPRE (FOREVER)",
+    "autor": "KARI JOBE - AVIVAH",
+    "link": "https://www.youtube.com/watch?v=ishM2o8LW94",
     "vsCifra": true,
-    "estacoes": []
+    "estacoes": [
+      "ADVENTO",
+      "NATAL",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
   },
   {
     "nome": "PRECISO DE TI",
-    "autor": "DT",
+    "autor": "DIANTE DO TRONO",
     "link": "l1nk.dev/PrecisoDeTi",
     "vsCifra": true,
     "estacoes": [
@@ -1133,6 +1337,18 @@
       "PÁSCOA",
       "PENTECOSTES",
       "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "QUÃO FORMOSO ÉS",
+    "autor": "MINISTÉRIO KOINONYA",
+    "link": "",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
     ]
   },
   {
@@ -1193,6 +1409,18 @@
     ]
   },
   {
+    "nome": "QUERO LOUVAR-TE",
+    "autor": "PAULO CESAR BARUK",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "EPIFANIA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
     "nome": "QUERO SUBIR",
     "autor": "DIANTE DO TRONO",
     "link": "",
@@ -1204,22 +1432,42 @@
     ]
   },
   {
-    "nome": "REDENÇÃO (PROJETO SOLA)",
-    "autor": "",
-    "link": "",
-    "vsCifra": true,
+    "nome": "QUERO TANTO AGRADECER",
+    "autor": "VINEYARD",
+    "link": "https://www.youtube.com/watch?v=PyBybbxT5cY",
+    "vsCifra": false,
     "estacoes": [
-      "NATAL",
+      "QUARESMA",
       "PÁSCOA",
-      "TEMPO_COMUM"
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
     ]
   },
   {
-    "nome": "Rei Salvador (Savior King)",
-    "autor": "Comuniodade Zona sul",
-    "link": "",
+    "nome": "REI DAS NAÇÕES",
+    "autor": "VENCEDORES POR CRISTO",
+    "link": "https://www.youtube.com/watch?v=pr7diwe__5w)\nregravada: https://open.spotify.com/track/5vsqadkmliafokqif0llrf",
     "vsCifra": false,
-    "estacoes": []
+    "estacoes": [
+      "ADVENTO",
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
+    "nome": "REINA EM MIM",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
   },
   {
     "nome": "REINA HOJE",
@@ -1228,17 +1476,6 @@
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "RENOVA-ME",
-    "autor": "ALINE BARROS",
-    "link": "",
-    "vsCifra": false,
-    "estacoes": [
-      "QUARESMA",
       "PENTECOSTES",
       "TEMPO_COMUM"
     ]
@@ -1267,7 +1504,7 @@
   },
   {
     "nome": "RUDE CRUZ",
-    "autor": "ANDRÉ VALADÃO",
+    "autor": "CANTOR CRISTÃO",
     "link": "",
     "vsCifra": false,
     "estacoes": [
@@ -1276,9 +1513,9 @@
     ]
   },
   {
-    "nome": "SALMO 51",
-    "autor": "NAIELLY LEITE",
-    "link": "",
+    "nome": "SALMO 139",
+    "autor": "GATEWAY",
+    "link": "https://open.spotify.com/intl-pt/track/7kUHYYPLlfucGRJnZLZxu3?si=d040a653f5f24f86",
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
@@ -1319,11 +1556,15 @@
     ]
   },
   {
-    "nome": "Santo pra Sempre",
-    "autor": "Ana Paula Nobrega",
-    "link": "",
+    "nome": "SANTO PRA SEMPRE",
+    "autor": "Chris Tomlin, Brian Johnson versão Ana Paula Nobrega",
+    "link": "https://www.youtube.com/watch?v=-841Zit4t30",
     "vsCifra": true,
-    "estacoes": []
+    "estacoes": [
+      "PÁSCOA",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
   },
   {
     "nome": "SANTO SANTO SANTO",
@@ -1338,7 +1579,7 @@
   },
   {
     "nome": "SANTO, SANTO, SANTO (DEUS ONIPOTENTE)",
-    "autor": "HINO",
+    "autor": "CANTOR CRISTÃO",
     "link": "VENCEDORES POR CRISTO (CD HINOS I)",
     "vsCifra": false,
     "estacoes": [
@@ -1393,7 +1634,7 @@
   {
     "nome": "SEGURANÇA (SOU DE JESUS)",
     "autor": "HINO",
-    "link": "LETRA DO CC - 375",
+    "link": "LETRA DO CANTOR CRISTÃO - 375",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1427,6 +1668,17 @@
     ]
   },
   {
+    "nome": "SENHOR DA CRIAÇÃO",
+    "autor": "VINEYARD",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
     "nome": "SENHOR FORMOSO ÉS (OH LORD, YOU'RE BEAUTIFUL)",
     "autor": "KEITH GREEN",
     "link": "VERSÃO MARCOS GOES",
@@ -1448,6 +1700,13 @@
     ]
   },
   {
+    "nome": "SENHOR TU ÉS BOM",
+    "autor": "ISAREL HOUGHTON",
+    "link": "",
+    "vsCifra": true,
+    "estacoes": []
+  },
+  {
     "nome": "SEU NOME É",
     "autor": "DANIEL SOUZA",
     "link": "",
@@ -1460,8 +1719,8 @@
   },
   {
     "nome": "SÓ TENHO A TI",
-    "autor": "",
-    "link": "",
+    "autor": "VINEYARD",
+    "link": "https://www.youtube.com/watch?v=iHyJ7mYHLVs",
     "vsCifra": true,
     "estacoes": [
       "TEMPO_COMUM"
@@ -1469,10 +1728,11 @@
   },
   {
     "nome": "SONDA-ME",
-    "autor": "",
-    "link": "",
+    "autor": "ALINE BARROS",
+    "link": "https://www.youtube.com/watch?v=MzLBmGf1fSQ",
     "vsCifra": true,
     "estacoes": [
+      "QUARESMA",
       "TEMPO_COMUM"
     ]
   },
@@ -1488,12 +1748,23 @@
     ]
   },
   {
-    "nome": "TE ADORAR",
-    "autor": "PROJETO VIDA NOVA DE IRAJÁ",
-    "link": "",
+    "nome": "SUBLIME",
+    "autor": "FHOPE",
+    "link": "https://youtu.be/7GWZwO0MdsY?si=SOr3-ib_69pWUs4l",
     "vsCifra": false,
     "estacoes": [
-      "QUARESMA",
+      "PÁSCOA",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
+    "nome": "SUFIENTE + DOXOLOGIA",
+    "autor": "FHOPE",
+    "link": "https://open.spotify.com/intl-pt/track/4es6T6fIR7YzW65d1jNKpU?si=080724eb7090447e",
+    "vsCifra": false,
+    "estacoes": [
+      "EPIFANIA",
+      "PÁSCOA",
       "PENTECOSTES",
       "TEMPO_COMUM"
     ]
@@ -1510,8 +1781,30 @@
     ]
   },
   {
+    "nome": "TESTEMUNHAR DO AMOR",
+    "autor": "AVALON",
+    "link": "https://www.youtube.com/watch?v=hoimnl5ygvs",
+    "vsCifra": true,
+    "estacoes": [
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
+  },
+  {
+    "nome": "TEU AMOR É INCRÍVEL",
+    "autor": "VINEYARD",
+    "link": "https://www.youtube.com/watch?v=7HykzkFBAwc",
+    "vsCifra": false,
+    "estacoes": [
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM"
+    ]
+  },
+  {
     "nome": "TEU AMOR NAO FALHA",
-    "autor": "NÍVEA SOARES",
+    "autor": "NEWS BOYS - NIVEA SOARES",
     "link": "",
     "vsCifra": true,
     "estacoes": [
@@ -1520,7 +1813,7 @@
   },
   {
     "nome": "TEU POVO (É O TEU POVO AQUI PRESENTE)",
-    "autor": "VENCEDORES POR CRISTO",
+    "autor": "IPALPHA",
     "link": "",
     "vsCifra": false,
     "estacoes": [
@@ -1542,7 +1835,7 @@
   },
   {
     "nome": "TEUS ALTARES",
-    "autor": "JOÃO ALEXANDRE",
+    "autor": "JORGE CAMARGOS",
     "link": "https://www.youtube.com/watch?v=m_qbcrorqrc",
     "vsCifra": true,
     "estacoes": [
@@ -1564,32 +1857,9 @@
     ]
   },
   {
-    "nome": "SUFIENTE + DOXOLOGIA",
-    "autor": "FHOPE",
-    "link": "https://open.spotify.com/intl-pt/track/4es6T6fIR7YzW65d1jNKpU?si=080724eb7090447e",
-    "vsCifra": false,
-    "estacoes": [
-      "EPIFANIA",
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
     "nome": "TODO PODER PERTENCE A JESUS",
     "autor": "DANIEL SOUZA",
     "link": "",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "ÉS MAIS FORTE",
-    "autor": "HILSONG PORTUGUES",
-    "link": "https://open.spotify.com/intl-pt/track/54J1uG33yRt10lfqNwpD0c?si=22e1f53bbd764941",
     "vsCifra": false,
     "estacoes": [
       "PÁSCOA",
@@ -1621,7 +1891,7 @@
   },
   {
     "nome": "TOMA O MEU CORAÇÃO (I GIVE YOU MY HEART)",
-    "autor": "HILSONG, VERSÃO PRISMA",
+    "autor": "HILLSONG, VERSÃO PRISMA",
     "link": "https://www.youtube.com/watch?v=rtb27r8vvwu",
     "vsCifra": false,
     "estacoes": [
@@ -1645,15 +1915,21 @@
     ]
   },
   {
-    "nome": "Tu És bom",
-    "autor": "Nivea Soares",
-    "link": "",
+    "nome": "TU ÉS BOM",
+    "autor": "NÍVEA SOARES",
+    "link": "https://www.youtube.com/watch?v=W4wInlwwblY&t=12s",
     "vsCifra": true,
-    "estacoes": []
+    "estacoes": [
+      "EPIFANIA",
+      "PÁSCOA",
+      "PENTECOSTES",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
+    ]
   },
   {
     "nome": "TU ÉS FIEL, SENHOR (O DEUS FIEL)",
-    "autor": "HINO",
+    "autor": "CANTOR CRISTÃO",
     "link": "",
     "vsCifra": false,
     "estacoes": [
@@ -1675,14 +1951,13 @@
     ]
   },
   {
-    "nome": "TU ÉS SANTO",
+    "nome": "TU ÉS SANTO (Versão PIB Curitiba)",
     "autor": "MICHAEL SMITH",
-    "link": "LETRA: RONALDO BEZERRA",
+    "link": "https://www.letras.mus.br/pib-de-curitiba/1223276/",
     "vsCifra": true,
     "estacoes": [
       "ADVENTO",
       "NATAL",
-      "PENTECOSTES",
       "TEMPO_COMUM"
     ]
   },
@@ -1711,16 +1986,18 @@
   },
   {
     "nome": "TU VIVES ENTRE OS QUERUBINS",
-    "autor": "",
+    "autor": "BETO TAVARES",
     "link": "",
     "vsCifra": true,
     "estacoes": [
-      "TEMPO_COMUM"
+      "PÁSCOA",
+      "TEMPO_COMUM",
+      "CRIAÇÃO"
     ]
   },
   {
     "nome": "TUDO ENTREGAREI",
-    "autor": "HINO",
+    "autor": "CANTOR CRISTÃO",
     "link": "",
     "vsCifra": false,
     "estacoes": [
@@ -1742,7 +2019,7 @@
   },
   {
     "nome": "VASOS QUEBRADOS (SUBLIME GRAÇA)",
-    "autor": "HILSONG EM PORTUGUES",
+    "autor": "HILLSONG EM PORTUGUES",
     "link": "https://www.youtube.com/watch?v=_ahfl-ofam8",
     "vsCifra": true,
     "estacoes": [
@@ -1759,17 +2036,6 @@
     "vsCifra": false,
     "estacoes": [
       "QUARESMA",
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "VEM LOUVAR (HOJE É TEMPO DE LOUVAR)",
-    "autor": "DESCONHECIDO",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": [
       "PÁSCOA",
       "PENTECOSTES",
       "TEMPO_COMUM"
@@ -1810,13 +2076,15 @@
     ]
   },
   {
-    "nome": "Vida aos sepulcros",
-    "autor": "Elevation Worship",
-    "link": "",
+    "nome": "VIDA AOS SEPULCROS",
+    "autor": "ELEVATION - MARCUS SALLES",
+    "link": "https://www.youtube.com/watch?v=FuPZKh4E1aY",
     "vsCifra": false,
     "estacoes": [
       "EPIFANIA",
+      "QUARESMA",
       "PÁSCOA",
+      "PENTECOSTES",
       "TEMPO_COMUM"
     ]
   },
@@ -1832,303 +2100,12 @@
     ]
   },
   {
-    "nome": "Vinho e Pão",
+    "nome": "VINHO E PÃO",
     "autor": "IPALPHA",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": []
-  },
-  {
-    "nome": "QUERO TANTO AGRADECER",
-    "autor": "VINEYARD",
-    "link": "",
-    "vsCifra": false,
-    "estacoes": []
-  },
-  {
-    "nome": "HOSANA",
-    "autor": "HILSONG EM PORTUGUES",
-    "link": "https://www.youtube.com/watch?v=2UtcyWiS2aI",
+    "link": "https://www.youtube.com/watch?v=JheqX_w3m08",
     "vsCifra": true,
     "estacoes": [
       "PÁSCOA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "CANÇÃO DO APOCALIPSE",
-    "autor": "AVIVAH",
-    "link": "https://youtu.be/GN_TohrQesA?si=3sW-lsrx5g7IBtIA",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "QUE AMOR É ESSE",
-    "autor": "SUYLÔ E SOLA",
-    "link": "https://open.spotify.com/intl-pt/track/1GKjj26uasFDUphJN8OODs?si=6c757fc723784875",
-    "vsCifra": false,
-    "estacoes": [
-      "QUARESMA"
-    ]
-  },
-  {
-    "nome": "EFÉSIO 1",
-    "autor": "PROJETO SOLA",
-    "link": "https://www.youtube.com/watch?v=6UFnLQJ-Z1Q",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "MOLDA-ME",
-    "autor": "JOSIMAR BIACHI, VPC",
-    "link": "https://open.spotify.com/intl-pt/track/4WSuQ1XPrSUI973uPnMfht?si=984af10461cd401f",
-    "vsCifra": false,
-    "estacoes": [
-      "QUARESMA"
-    ]
-  },
-  {
-    "nome": "HÁ PODER",
-    "autor": "FHOPE",
-    "link": "https://www.youtube.com/watch?v=5DN90_GGBZA",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "SUBLIME",
-    "autor": "FHOPE",
-    "link": "https://youtu.be/7GWZwO0MdsY?si=SOr3-ib_69pWUs4l",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "SAMLMO 139",
-    "autor": "GATEWAY",
-    "link": "https://open.spotify.com/intl-pt/track/7kUHYYPLlfucGRJnZLZxu3?si=d040a653f5f24f86",
-    "vsCifra": false,
-    "estacoes": [
-      "QUARESMA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "AO PÉ DA CRUZ",
-    "autor": "NOVO CANTO",
-    "link": "https://www.youtube.com/watch?v=2C6EPo0GE3I",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "ENQUANTO EU VIVER",
-    "autor": "DIANTE DO TRONO",
-    "link": "https://www.youtube.com/watch?v=-Ft25L_MWGM",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "63",
-    "autor": "NOVO CANTO",
-    "link": "https://www.youtube.com/watch?v=FXMmY2ql9Ug",
-    "vsCifra": false,
-    "estacoes": [
-      "TEMPO_COMUM"
-    ]
-  },
-  {
-    "nome": "SENHOR TU ÉS BOM",
-    "autor": "ISAREL HOUGHTON",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": []
-  },
-  {
-    "nome": "A CRIAÇÃO EM TEU LOUVOR",
-    "autor": "SAMUEL MIZRAHY",
-    "link": "https://www.youtube.com/watch?v=qpne7vm6r30",
-    "vsCifra": false,
-    "estacoes": [
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "ACREDITO",
-    "autor": "DIANTE DO TRONO",
-    "link": "",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "CANÇÃO DO APOCALIPSE",
-    "autor": "HILSONG",
-    "link": "l1nk.dev/CancaoDoAPC",
-    "vsCifra": true,
-    "estacoes": [
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "COLOSSENSES 1",
-    "autor": "PROJETO SOLA",
-    "link": "acesse.one/Colossences1",
-    "vsCifra": true,
-    "estacoes": [
-      "NATAL",
-      "EPIFANIA",
-      "PÁSCOA",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "EU TAMBÉM",
-    "autor": "HILLSONG",
-    "link": "https://www.youtube.com/watch?v=h5plfizkr5a",
-    "vsCifra": true,
-    "estacoes": [
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "JESUS É O REI DA GLÓRIA",
-    "autor": "DANIEL SOUZA",
-    "link": "acesse.one/JesusEoRei",
-    "vsCifra": true,
-    "estacoes": [
-      "EPIFANIA",
-      "PÁSCOA",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "LOUVOR E HONRA (ANCIENT OF DAYS)",
-    "autor": "PAULO CESAR BARUK",
-    "link": "https://www.youtube.com/watch?v=7rddoafnkdq&list=rd7rddoafnkdq&start_radio=1",
-    "vsCifra": true,
-    "estacoes": [
-      "NATAL",
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "NOSSO DEUS É SOBERANO",
-    "autor": "ASAPH BORBA",
-    "link": "l1nk.dev/NossoDeusESoberano",
-    "vsCifra": true,
-    "estacoes": [
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "QUÃO FORMOSO ÉS",
-    "autor": "MINISTÉRIO KOINONYA",
-    "link": "",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "TEU AMOR É INCRÍVEL",
-    "autor": "VINEYARD",
-    "link": "https://www.youtube.com/watch?v=7HykzkFBAwc",
-    "vsCifra": false,
-    "estacoes": [
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "QUERO LOUVAR-TE",
-    "autor": "PAULO CESAR BARUK",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": [
-      "EPIFANIA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "REI DAS NAÇÕES",
-    "autor": "VENCEDORES POR CRISTO",
-    "link": "https://www.youtube.com/watch?v=pr7diwe__5w)\nregravada: https://open.spotify.com/track/5vsqadkmliafokqif0llrf",
-    "vsCifra": false,
-    "estacoes": [
-      "ADVENTO",
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "REINA EM MIM",
-    "autor": "VINEYARD",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": [
-      "PÁSCOA",
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "SENHOR DA CRIAÇÃO",
-    "autor": "VINEYARD",
-    "link": "",
-    "vsCifra": true,
-    "estacoes": [
-      "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "TESTEMUNHAR DO AMOR",
-    "autor": "AVALON",
-    "link": "https://www.youtube.com/watch?v=hoimnl5ygvs",
-    "vsCifra": true,
-    "estacoes": [
       "PENTECOSTES",
       "TEMPO_COMUM",
       "CRIAÇÃO"
@@ -2141,16 +2118,6 @@
     "vsCifra": true,
     "estacoes": [
       "PENTECOSTES",
-      "TEMPO_COMUM",
-      "CRIAÇÃO"
-    ]
-  },
-  {
-    "nome": "136",
-    "autor": "PROJETO SOLA",
-    "link": "https://www.youtube.com/watch?v=4Ef_sSKPClg",
-    "vsCifra": false,
-    "estacoes": [
       "TEMPO_COMUM",
       "CRIAÇÃO"
     ]
